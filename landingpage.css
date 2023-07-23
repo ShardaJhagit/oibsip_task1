@@ -1,0 +1,209 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    
+    display: flex;
+   position: fixed;
+   background-color: black;
+   width: 100rem;
+   height:6rem;
+
+}
+.list{
+   margin-left: 10rem;
+    display: flex;
+    margin-top: 3rem;
+}
+.list ul{
+    display: flex;
+
+}
+.list ul li {
+    list-style: none;
+   
+}
+.list ul li a{
+    text-decoration: none;
+    padding :2rem;
+    text-align: center;
+    color:white;
+    
+}
+.list ul li a:hover{
+    color: white;
+    background-color: rgb(22, 55, 55);
+}
+form{
+    margin-left: 27rem;
+}
+input{
+    padding: 0.3rem;
+    border-radius: 0.5rem;
+}
+.btn-nav{
+    background: none;
+    color: white;
+    padding: 0.3rem;
+}
+.btn-nav:hover{
+    background-color: white;
+    color: black;
+}
+.heading{
+    text-align: center;
+    background-color: rgb(128, 41, 41);
+}
+.home{
+    display: flex;
+}
+.homeimg{
+   margin-top: 8rem;
+   width: 50vw;
+   
+}
+.a1{
+    display: flex;
+    margin-top: 1rem;
+}
+.about1{
+    width: 50vw;
+
+}
+.p1{
+    background-color: beige;
+    border: 2px rgb(75, 58, 35) solid;
+    color: black;
+
+}
+.para1{
+    margin-top: 10rem;
+    margin-left: 3rem;
+
+}
+.pa1{
+    margin-left: 3rem;
+
+}
+.b1{
+    margin-top: 2rem;
+    margin-left: 15rem;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+}
+.b1:hover{
+    background-color: transparent;
+    color: black;
+}
+.a2{
+    display: flex;
+    margin-top: 1rem;
+}
+.about2{
+    
+    width: 30vw;
+
+}
+.p2{
+    background-color: beige;
+    border: 2px rgb(75, 58, 35) solid;
+
+}
+.para2{
+    margin-top: 10rem;
+    margin-left: 3rem;
+
+}
+.pa2{
+    margin-left: 3rem;
+
+}
+.b2{
+    margin-top: 2rem;
+    margin-left: 15rem;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+}
+.b2:hover{
+    background-color: transparent;
+    color: black;
+}
+.line{
+    display: flex;
+    margin-top: 2rem;
+}
+#pic1{
+    width:30vw;
+    height: 20rem;
+    margin-right: 5vw;
+}
+#pic2{
+    width:30vw;
+    height: 20rem;
+    margin-right: 5vw;
+}
+#pic3{
+    width:30vw;
+    height: 20rem;
+}
+
+.foot{
+    background-color: black;
+    text-align: center;
+    height: 6rem;
+}
+.foot p{
+    color: white;
+
+}
+.c1{
+    align-items: left;
+
+}
+.contact{
+   margin-top: 2rem;
+   background-color: bisque;
+}
+#c1{
+    padding: 0.3rem;
+    width: 30vw;
+    margin-bottom: 1rem;
+}
+#c2{
+    padding: 0.3rem;
+    width: 30vw;
+    margin-bottom: 1rem;
+}
+#c3{
+    padding: 0.3rem;
+    width: 30vw;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+}
+.b4{
+    margin-top: 2rem;
+    margin-left: 15rem;
+    padding: 0.3rem;
+    background-color: black;
+    color: white;
+    margin-bottom: 1rem;
+}
+.b4:hover{
+    background-color: transparent;
+    color: black;
+}
+.line{
+    background-color: rgb(162, 234, 210);
+}
+.watch{
+    color:brown;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.foot p{
+    margin-bottom: 0.5rem;
+}
